@@ -11,5 +11,5 @@ If you use these data, please cite the corresponding publications:
 
 ## Notes
 
-- The profile likelihood (PCL) threshold was changed to –1σ after SR0.  
+- The power-constrained limit (PCL) threshold was changed to –1σ after SR0.  
 - The repository also includes a Jupyter notebook, `plot.ipynb`, which reproduces upper limit plots.
