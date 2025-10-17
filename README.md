@@ -6,8 +6,8 @@ This repository contains the published XENONnT WIMP–nucleon cross-section uppe
 
 If you use these data, please cite the corresponding publications:
 
-- **SR0:** [Phys. Rev. Lett. 131, 041003 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.041003)
 - **SR1:** [arXiv:2502.18005 (2025)](https://arxiv.org/pdf/2502.18005v1)
+- **SR0:** [Phys. Rev. Lett. 131, 041003 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.041003)
 
 ## Notes
 
