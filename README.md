@@ -1,4 +1,5 @@
 # XENONnT WIMP Data Release
+[![DOI](https://zenodo.org/badge/1078334050.svg)](https://doi.org/10.5281/zenodo.17381424)
 
 This repository contains the published XENONnT WIMP–nucleon cross-section upper limit data as a function of WIMP mass.
 
