@@ -1,7 +1,7 @@
 # XENONnT WIMP Data Release
 [![DOI](https://zenodo.org/badge/1078334050.svg)](https://doi.org/10.5281/zenodo.17381424)
 
-This repository contains the published XENONnT WIMP–nucleon cross-section upper limit data as a function of WIMP mass. In folder `SR0/` it contains the WIMP result from SR0-only data; in folder `SR01/` it contains the combined WIMP result from SR0+SR1.
+This repository contains the published XENONnT WIMP–nucleon cross-section upper limit data as a function of WIMP mass. In folder `SR0/` it contains the WIMP result from SR0-only data; in folder `SR0+SR1/` it contains the combined WIMP result from SR0+SR1.
 
 ## References
 
